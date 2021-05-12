@@ -6,6 +6,8 @@ I'm Kirill, frontend developer from 🇷🇺 Russia
  * Website: https://kdevlab.com (Working on it)
  * Twitter: https://twitter.com/kdeveloper_ru
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=miuirussia&show_icons=true&theme=tokyonight)
+
 <!--
 **miuirussia/miuirussia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
