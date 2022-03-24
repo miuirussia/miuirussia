@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kirill, frontend developer from 🇷🇺 Russia  
+I'm Kirill, frontend developer
 
 ## Get in touch
  * Website: https://kdevlab.com (Working on it)
